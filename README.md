@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Indian perfume that smells like rain
 
-You can use the [editor on GitHub](https://github.com/onermecomtan/art/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Do you love this fresh musky earth scent that soaks up the air when the streams of rain hit the dried up land? It is known as Petricor - a pleasant cocktail of aromatic chemical compounds that are released by plants and bacteria living in the soil. These bacteria make a major contribution to the distinct earth smell. When they die in periods of drought, they release a compound called geosmin to which the human nose is extremely sensitive. But geosmin cannot rise in the air until the first drops of rain fall to the ground and release geosmin molecules from the soil. While researchers are just beginning to understand the chemistry of this wonderful scent, a small town in India's Uttar Pradesh catches this scent in a bottle of perfume.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Branching](perfume1.jpg)
 
-### Markdown
+Cannaugge is located on the bank of the Ganges River, between the cities of Agra and Lucknow. The ancient city has been home to the perfume industry since Harsawardhan, who ruled northern India in the 7th century. Kannaudja spirits were known among the Great Mughal Emperors who ruled India for almost 300 years. Approximately 1300 years later, almost half of the 1.5 million inhabitants of Kannaudja are still engaged in the production of perfumes using traditional methods.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Every morning, local farmers collect various flowers such as rose, jasmine, champagne, lotus, ginger lily, gardenia and dozens of others, and deliver them to more than two hundred perfume factories scattered throughout the city. The flowers are mixed with water and heated in large copper vats. The aromatic steam is then transferred through bamboo pipes to a container containing sandal oil, which acts as a base for perfumes. The perfume is then transferred to bottles made of camel leather, whose porosity allows excess water to evaporate, keeping the fragrance and oil inside.
 
-```markdown
-Syntax highlighted code block
+![Branching](perfume2.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+The most remarkable product in Kannaudja is the mitti Attar, or "perfume of the earth. The process of making mitti Attar is similar to any other aromatic compound, but instead of flower petals, degrees are filled with flat bricks from the dried earth, a drop of water from the nearest pond, and then the vats are sealed with clay. It takes six to seven hours before the whole aroma evaporates from the clay.
 
-- Bulleted
-- List
+No matter how unique the Kannauja offers are, the centuries-old business is slowly losing clients, as the youth of India are increasingly turning to cheaper alcohol-based products. For example, a bottle of Ruh Gulab (pinkattar) for 100 ml costs 1000 rupees - about 14 dollars, but you can get a synthetic flavor of rose for only 100 rupees, or less than 1.50 dollars.
 
-1. Numbered
-2. List
+![Branching](perfume3.jpg)
 
-**Bold** and _Italic_ and `Code` text
+"Most customers prefer modern perfumes and deodorants. If good deodorant can do the same for you, why spend so much on anattaras? " asks Nishish Tevari, the owner of a perfume store in Kannauja.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/onermecomtan/art/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
